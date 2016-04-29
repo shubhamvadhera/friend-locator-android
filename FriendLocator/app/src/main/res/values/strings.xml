@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FriendLocator</string>
+    <string name="action_settings">Settings</string>
+    <string name="friend_finder">Friend Locator</string>
+    <string name="your_location">Your Location</string>
+    <string name="your_key">Your Key</string>
+    <string name="generating_key">Generating Key...</string>
+    <string name="share_key_message">Share this key to share your location with friends</string>
+    <string name="msg_friends_add">Add upto 5 friends</string>
+    <string name="refresh">Refresh</string>
+    <string name="add_friend">Add new friend</string>
+    <string name="remove_friend">Remove friend</string>
+    <string name="msg_no_friend">No friend added !</string>
+    <string name="no_location_data">No Location Data</string>
+    <string name="enter_key">Enter unique key of friend</string>
+    <string name="give_nickname">Give him/her a nickname !</string>
+    <string name="enter_name_rem">Enter name of friend to remove!</string>
+    <string name="your_friends">Your Friends</string>
+    <string name="title_activity_friends">Friends</string>
+    <string name="title_activity_maps_activity_friends">Map</string>
+    <string name="title_activity_add_friends">AddFriendsActivity</string>
+    <string name="title_activity_remove_friends">RemoveFriendsActivity</string>
+    <string name="copy_key">Copy Key</string>
+</resources>
